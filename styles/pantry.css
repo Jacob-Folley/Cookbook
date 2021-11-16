@@ -1,0 +1,4 @@
+.pantryItems {
+    display: flex;
+    flex-wrap: nowrap;
+}
